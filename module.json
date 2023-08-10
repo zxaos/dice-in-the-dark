@@ -3,6 +3,8 @@
 	"title": "Dice in the Dark",
 	"description": "Now your scoundrels can roll in style! This UNOFFICIAL module adds a preset to Dice So Nice that replaces the 6 with the iconic blade from the logo of John Harper's Blades in the Dark.",
 	"version": "1.0.0",
+	"download": "https://github.com/zxaos/dice-in-the-dark/releases/download/1.0.0/module.zip",
+	"manifest": "https://github.com/zxaos/dice-in-the-dark/releases/latest/download/module.json",
 	"repository": {
 		"type": "git",
 		"url": "github.com/zxaos/dice-in-the-dark"
