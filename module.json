@@ -1,0 +1,32 @@
+{
+	"id": "dice-in-the-dark",
+	"title": "Dice in the Dark",
+	"description": "Now your scoundrels can roll in style! This UNOFFICIAL module adds a preset to Dice So Nice that replaces the 6 with the iconic blade from the logo of John Harper's Blades in the Dark.",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "github.com/zxaos/dice-in-the-dark"
+	},
+	"authors": [{
+		"name": "zxaos",
+		"discord": "Warshade",
+		"email": "foundrymodules@zxaos.codefire.io",
+		"url": "https://github.com/zxaos",
+		"flags": {}
+	}],
+	"license": "license.txt",
+	"readme": "readme.md",
+	"compatibility": {
+		"minimum": 11,
+		"verified": 11
+	},
+	"relationships": {
+		"requires": [{
+			"id": "dice-so-nice",
+			"type": "module",
+			"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+		}]
+	},
+	"esmodules": ["scripts/module.js"],
+	"styles": ["styles/style.css"]
+}
