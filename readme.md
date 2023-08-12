@@ -5,6 +5,7 @@ Now your scoundrels can roll in style! This UNOFFICIAL module adds a preset to [
 
 # Usage
 * Install the Dice So Nice module and this module.
+    * If necessary, you can use the manifest url `https://github.com/zxaos/dice-in-the-dark/releases/latest/download/module.json`
 * In the configuration for Dice So Nice, select the "Dice in the Dark" preset for the D6 or for all of the dice!
 
 # License
